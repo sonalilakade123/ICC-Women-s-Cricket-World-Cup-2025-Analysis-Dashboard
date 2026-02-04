@@ -11,4 +11,15 @@ Excited to share my new Power BI Dashboard ICC WOMEN'S CRICKET WORLD CUP 2025 An
 .In second analysis Top 5 bowler have most wicket by over, show top 5 bowler their inning with BBI 🏏
 
 
-.In third Analysis highest score with venue stadium , analysis of start to final matches winning score with their score
+.In third Analysis highest score with venue stadium , analysis of start to final matches winning score with their score.
+
+# Tools & Technologies
+. Power BI Desktop
+
+. Power Query
+
+. DAX
+
+. Data Modelling
+
+. Excel/CSV/SQL Data Sources
